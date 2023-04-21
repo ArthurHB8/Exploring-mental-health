@@ -23,8 +23,8 @@ body.dark-blue {
 body.pink {
   --bg-color: #E5E5E5;
   --text-color:  #1F000B;
-  --primary-color: #D6336C;
-  --primary-color-dark: #A61E4D; 
+  --primary-color: #67B2AB;
+  --primary-color-dark: #2f5d58; 
 }
 body.dark-pink {
   --bg-color: #1F000B;
