@@ -91,7 +91,6 @@ ul li a {
 	transition: background 400ms;
 }
 
-
 ul li a:hover {
 	background: var(--primary-color-dark);
 }
