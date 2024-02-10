@@ -98,7 +98,7 @@ ul li a:hover {
 footer {
 	font-weight: 500;
 	font-size: 12px;
-	opacity: 0.6;
+	opacity: 0.8;
 
 	transition: opacity 400ms;
 }
